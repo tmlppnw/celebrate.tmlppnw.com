@@ -15,7 +15,7 @@ html {
     font-size: 1em;
     line-height: 1.4;
     /* background: #000 url('/imgs/r7Z09Ht.gif'); */
-    background: #000 url('/img/oregon_forest_1900x840.jpg') no-repeat center center fixed;
+    background: #000 url('/img/intro-bg.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -128,7 +128,7 @@ h1.name {
 
 .fullpage {
   height: 100%;
-  background: rgba(60, 0, 33, 0.3);
+  background: rgba(60, 0, 33, 0.4);
   clear: both;
   margin-bottom: -55px;
   overflow: hidden;
